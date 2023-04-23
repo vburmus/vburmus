@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
- <img src ="https://github-readme-stats.vercel.app/api?username=vburmus&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+ <img src ="https://github-readme-stats.vercel.app/api?username=vburmus&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="500px"/>
  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=vburmus&theme=dark&hide_border=false"/>
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vburmus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
