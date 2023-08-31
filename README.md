@@ -1,6 +1,6 @@
 
 # ⚡ About Me:
- ❕I’m currently studying in the 2nd year of university. <br>❕Enthusiastic, hard-working and well-organized person. <br> ❕I always meet deadlines and have good communication and teamwork skills.<br>❕Right now I'm learning SonarQube.<br> 💬 Feel free to contact me.
+ ❕I’m currently studying in the 2nd year of university. <br>❕Enthusiastic, hard-working and well-organized person. <br> ❕I always meet deadlines and have good communication and teamwork skills.<br><br> 💬 Feel free to contact me.
 
 
 ## 🌐 Socials:
