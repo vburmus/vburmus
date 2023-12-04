@@ -1,8 +1,9 @@
 
 # ⚡ About Me:
-- Right now I am working on my own project, based on microservices architecture. The main purpose is to migrate from monolith in previous project and add some features(notifications, messages, etc.). 
+- Right now I am working on upgrading own project, based on microservices architecture.
 - Enthusiastic, well-organized and passionate about Java. Those three words can describe my eagerness to learn new features and technologies.
-- I am also a bachelor's student of applied computer science at Politechnika Wrocławska, one of the top technical universities in Poland. I have good communication and teamwork skills, and I can work effectively under pressure and meet deadlines. My goal is to develop high-quality software solutions that meet the needs and expectations of clients and users.<br><br> 💬 Feel free to contact me.
+- I am also a bachelor's student of applied computer science at Politechnika Wrocławska, one of the top technical universities in Poland.
+- I have good communication and teamwork skills, and I can work effectively under pressure and meet deadlines. My goal is to develop high-quality software solutions that meet the needs and expectations of clients and users.<br><br> 💬 Feel free to contact me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vburmus) 
